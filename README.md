@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Главная страница](/public/readme/banner.jpg)
+#View Modern Car - подбор аренды автомобилей
 
-## Getting Started
+##Стек
+SPA NextJS (v.13.4), Cars by API-Ninjas, Imagin Studio API, TailwindCSS, TS, adaptive design
 
-First, run the development server:
+##⚙ Установка
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+1. Клонируйте репозиторий или скачайте архив (с последующей распаковкой в удобное место на компьютер) по [ссылке](_____).
+2. Откройте данный проект на компьютере в редакторе.
+3. Откройте в редакторе терминал и установите автоматически все пакеты зависимостей проекта, с помощью команд `yarn` или `npm install`.
+4. Запуск проекта, осуществляется с помощью команд `yarn dev` или `npm dev` в терминале, в зависимости от используемого Вами пакетного менеджера.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## © Лицензия
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+ALL RIGHTS RESERVED.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 💻 Разработчик
 
-## Learn More
+**_=== Vitalii Lukashev ===_**
 
-To learn more about Next.js, take a look at the following resources:
+[👉 Контакты для связи со мной](https://github.com/lukashevVitaliy)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 👀 Скриншоты
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+_Banner_
+![banner](/public/readme/banner.jpg)
 
-## Deploy on Vercel
+_Catalog Car_
+![catalog car](/public/readme/catalog.jpg)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+_Filter Fuel_
+![filter_fuel](/public/readme/filter_fuel.jpg)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+_menu-page_
+![menu-page](/public/readme/filter_years.jpg)
+
+_Filter Years_
+![Filter Years](/public/readme/category.jpg)
+
+_Modal Info Car_
+![Modal Info Car](/public/readme/modal_info_car.jpg)
+
+_Show More_
+![Show More](/public/readme/show_more.jpg)
